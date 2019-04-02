@@ -1,0 +1,7 @@
+org/unifi/ft/renamer/App.class
+org/unifi/ft/renamer/gui/MainPanel.class
+org/unifi/ft/renamer/core/Renamer.class
+org/unifi/ft/renamer/gui/MainPanel$3.class
+org/unifi/ft/renamer/gui/MainPanel$1.class
+org/unifi/ft/renamer/gui/MainPanel$2.class
+org/unifi/ft/renamer/core/Reader.class
